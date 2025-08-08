@@ -1,0 +1,14 @@
+﻿{
+   "monitoring": [
+	   {
+		   "log_file": "logs/app1.log",
+		   "keyword_file": "keywords_app1.txt",
+		   "idle_timeout": 300
+	   },
+	   {
+		   "log_file": "logs/app2.log",
+		   "keyword_file": "keywords_app2.txt",
+		   "idle_timeout": 600
+	   }
+   ]
+}
